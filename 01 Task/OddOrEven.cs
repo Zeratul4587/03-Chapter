@@ -4,7 +4,7 @@ using System.Threading.Channels;
 
 namespace _01_Task
 {
-    internal class Program
+    internal class OddOrEven
     {
         static void Main(string[] args)
         {

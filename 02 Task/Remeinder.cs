@@ -2,7 +2,7 @@
 //дели и на 5, и на 7 без остатък
 namespace _02_Task
 {
-    internal class Program
+    internal class Remeinder
     {
         static void Main(string[] args)
 
